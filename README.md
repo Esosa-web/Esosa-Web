@@ -1,6 +1,6 @@
 # Hi there, I'm Esosa! 👋
 
-![Profile Views Count](https://komarev.com/ghpv/?username=Esosa-web&label=Profile+Views&color=blueviolet)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEsosa-web&count_bg=%238B3DFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true)
 
 ## 🚀 About Me
 Full-stack developer with a passion for creating clean, efficient solutions. Recently graduated from General Assembly's Software Engineering bootcamp, where I transformed my engineering background into practical software development skills.
