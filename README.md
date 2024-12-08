@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/Profile_Views-2-blueviolet?style=for-the-badge" alt="Profile Views Count">
 </p>
 
-[rest of the README content remains the same...]
 
 ## 🚀 About Me
 Full-stack developer with a passion for creating clean, efficient solutions. Recently graduated from General Assembly's Software Engineering bootcamp, where I transformed my engineering background into practical software development skills.
