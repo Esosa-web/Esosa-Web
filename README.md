@@ -50,9 +50,10 @@ TypeScript football simulation game with tournament functionality.
 Full-stack task management application built with React and Django.
 [Live Demo](https://esosa-task-manager.netlify.app) | [Code](https://github.com/Esosa-web/task-manager-frontend)
 
+
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Esosa-Aghanenu&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Esosa-web&show_icons=true&theme=tokyonight)
 
 ## 🤝 Let's Connect
 - [Portfolio](https://esosadev.netlify.app)
