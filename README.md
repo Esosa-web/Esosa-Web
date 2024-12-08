@@ -1,7 +1,7 @@
 # Hi there, I'm Esosa! 👋
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Profile_Views-2-blueviolet?style=for-the-badge" alt="Profile Views Count">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEsosa-Aghanenu&count_bg=%238B5CF6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true" alt="Profile Views Count">
 </p>
 
 
