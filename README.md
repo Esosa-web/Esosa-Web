@@ -1,6 +1,12 @@
 # Hi there, I'm Esosa! 👋
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEsosa-web&count_bg=%238B3DFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true)
+# Hi there, I'm Esosa! 👋
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Profile_Views-2-blueviolet?style=for-the-badge" alt="Profile Views Count">
+</p>
+
+[rest of the README content remains the same...]
 
 ## 🚀 About Me
 Full-stack developer with a passion for creating clean, efficient solutions. Recently graduated from General Assembly's Software Engineering bootcamp, where I transformed my engineering background into practical software development skills.
