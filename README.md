@@ -1,5 +1,9 @@
 # Hi there, I'm Esosa! 👋
 
+<p align="left">
+  <img src="https://komarev.com/ghpv/?username=ladeoshodi&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet" alt="Profile Views Count">
+</p>
+
 ## 🚀 About Me
 Full-stack developer with a passion for creating clean, efficient solutions. Recently graduated from General Assembly's Software Engineering bootcamp, where I transformed my engineering background into practical software development skills.
 
@@ -50,13 +54,11 @@ Full-stack task management application built with React and Django.
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Esosa-web&show_icons=true&theme=tokyonight)
 
 ## 🤝 Let's Connect
-- [LinkedIn](Your LinkedIn URL)
-- [Portfolio](Your Portfolio URL)
+- [Portfolio](https://esosadev.netlify.app)
+- [LinkedIn](https://www.linkedin.com/in/esosaemwionkpa/)
 
 ## 💡 Currently
 - 🔭 Working on expanding my project portfolio
 - 🌱 Learning Next.js
 - 👯 Open to collaboration on interesting projects
-- 💬 Ask me about JavaScript, React, TypeScript, or Python!
-
-![Profile views](https://komarev.com/ghpv/?username=Esosa-web&color=brightgreen)
+- 💬 Ask me about React, TypeScript, or Python!
