@@ -1,7 +1,5 @@
 # Hi there, I'm Esosa! 👋
 
-# Hi there, I'm Esosa! 👋
-
 <p align="left">
   <img src="https://img.shields.io/badge/Profile_Views-2-blueviolet?style=for-the-badge" alt="Profile Views Count">
 </p>
