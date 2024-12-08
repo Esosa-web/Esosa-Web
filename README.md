@@ -1,8 +1,6 @@
 # Hi there, I'm Esosa! 👋
 
-<p align="left">
-  <img src="https://komarev.com/ghpv/?username=ladeoshodi&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet" alt="Profile Views Count">
-</p>
+![Profile Views Count](https://komarev.com/ghpv/?username=Esosa-web&label=Profile+Views&color=blueviolet)
 
 ## 🚀 About Me
 Full-stack developer with a passion for creating clean, efficient solutions. Recently graduated from General Assembly's Software Engineering bootcamp, where I transformed my engineering background into practical software development skills.
